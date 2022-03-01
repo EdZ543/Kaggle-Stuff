@@ -115,3 +115,4 @@ dmypy.json
 
 # Storage-heavy data from Kaggle
 *.csv
+*.zip

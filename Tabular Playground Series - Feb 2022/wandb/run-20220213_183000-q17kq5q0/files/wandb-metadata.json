@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-02-13T23:30:05.914840",
+    "startedAt": "2022-02-13T23:30:00.794068",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\zhuan\\AppData\\Roaming\\jupyter\\runtime\\kernel-5a4f1915-f2e4-463b-8525-2e9bfacae0f3.json"
+    ],
+    "state": "running",
+    "program": "xgboost.ipynb",
+    "git": {
+        "remote": null,
+        "commit": "9360e1433cdcee2b79a63e431895960958092ee8"
+    },
+    "email": "zhuang.eddie@gmail.com",
+    "root": "D:/GeekyStuff/Python/Kaggle-Stuff",
+    "host": "DESKTOP-6RO9CFE",
+    "username": "zhuan",
+    "executable": "D:\\Users\\zhuan\\anaconda3\\envs\\ml\\python.exe"
+}
