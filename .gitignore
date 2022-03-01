@@ -114,4 +114,4 @@ dmypy.json
 .pyre/
 
 # Storage-heavy data from Kaggle
-.csv
+*.csv
